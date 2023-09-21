@@ -4,7 +4,9 @@
 /out-tsc
 
 # dependencies
+node_modules
 /node_modules
+package-lock.json
 
 # IDEs and editors
 /.idea
@@ -29,7 +31,6 @@
 /libpeerconnection.log
 npm-debug.log
 testem.log
-package-lock.json
 /typings
 
 # e2e
