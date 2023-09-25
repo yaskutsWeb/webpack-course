@@ -2,7 +2,7 @@
 ## 1. Introduction
 - [Video](https://www.youtube.com/watch?v=0vNI5cVF3go&ab_channel=kamaz.v8)
 
-## 2. What is webpack.
+## 2. What is webpack
 - [Video](https://www.youtube.com/watch?v=4pSsmv7KdaQ&ab_channel=kamaz.v8)
 
 #### Study Materials
@@ -10,7 +10,7 @@
 - Advantages of webpack: https://www.geeksforgeeks.org/what-are-the-advantages-of-using-webpack/
 - When to use and why: https://andrewray.me/blog/webpack-when-to-use-and-why
 
-## 3. Software installations.
+## 3. Software installations
 - [Video](https://www.youtube.com/watch?v=5mo113eTqhs&ab_channel=kamaz.v8)
 
 #### Study Materials
@@ -57,7 +57,7 @@
 - What is commonJS: https://medium.com/@cgcrutch18/commonjs-what-why-and-how-64ed9f31aa46
 
 ## 9.  ES6 Modules
-- [Video](https://youtu.be/wFRz8dgQUn8)
+- [Video](https://youtu.be/FCYVs9aS-Bg)
 
 #### Source code: [ES6 Modules](https://github.com/yaskutsWeb/webpack-course/tree/master/source/module%201/5.%20ES6%20Modules%20%5Blesson%209%5D)
 
