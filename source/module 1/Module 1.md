@@ -65,3 +65,9 @@
 - What is ES6 Modules: https://learn.javascript.ru/modules
 - CommonJS Modules vs ES6 Modules: https://blog.logrocket.com/commonjs-vs-es-modules-node-js/
 - Difference between NPM and NPX: https://www.codingninjas.com/studio/library/difference-between-npm-and-npx
+
+
+##
+#### [Next Module](https://github.com/yaskutsWeb/webpack-course/blob/master/source/module%202/Module%202.md)
+#### [Return to contents](https://github.com/yaskutsWeb/webpack-course)
+##

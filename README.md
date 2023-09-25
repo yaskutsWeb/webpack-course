@@ -9,4 +9,4 @@
 
 # [Module 1. Introduction Webpack Basics](https://github.com/yaskutsWeb/webpack-course/blob/master/source/module%201/module_1.md)
 
-# [Module 2. Webpack Loaders](_)
+# [Module 2. Webpack Loaders](https://github.com/yaskutsWeb/webpack-course/blob/master/source/module%202/Module%202.md)
