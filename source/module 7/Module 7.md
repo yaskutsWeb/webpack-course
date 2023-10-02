@@ -1,52 +1,57 @@
-# Module 2. Webpack Loaders
+# Module 7. Build a React single page application
 ## 1. Introduction
-- [Video](https://youtu.be/dIaZLzW5iS0)
+- [Video](https://youtu.be/mxOL2rAI78w)
 
-## 2. What are loaders
-- [Video](https://youtu.be/GPLW5VBQMM4)
+## 2. Basic HTML and JS configuration
+- [Video](https://youtu.be/4zSEZXC0G6E)
 
-#### Study Materials
-- Webpack Loaders Concepts: https://webpack.js.org/concepts/loaders/
-- Webpack Loaders: https://webpack.js.org/loaders/
+#### Source code: 
+[Basic HTML and JS configuration (base)](https://github.com/yaskutsWeb/webpack-course/tree/master/source/module%207/1.%20Basic%20HTML%20and%20JS%20configuration%20(base)%20%5Blesson%202%5D)
+[Basic HTML and JS configuration](https://github.com/yaskutsWeb/webpack-course/tree/master/source/module%207/1.%20Basic%20HTML%20and%20JS%20configuration%20%5Blesson%202%5D)
 
-## 3. CSS Loaders
-- [Video (Part 1)](https://youtu.be/PO7s-6278Ww)
-- [Video (Part 2)](https://youtu.be/dDEyor8vRaA)
+## 3. Define Entry Output configurations
+- [Video](https://youtu.be/DdmZDYa1xPQ)
 
-#### Source code: [CSS Loaders](https://github.com/yaskutsWeb/webpack-course/tree/master/source/module%202/1.%20CSS%20loaders%20%5Blesson%203%5D)
+#### Source code: [Define Entry Output configurations](https://github.com/yaskutsWeb/webpack-course/tree/master/source/module%207/2.%20Define%20Entry%20Output%20configurations%20%5Blesson%203%5D)
 
-#### Study Materials
-- style-loader: https://webpack.js.org/loaders/style-loader/
-- css-loader: https://webpack.js.org/loaders/css-loader/
+## 4. Adding Loaders Dev Server Configurations
+- [Video](https://youtu.be/xTTi8MIUeeg)
 
-## 4. SASS(SCSS) Loader
-- [Video](https://youtu.be/T3AzrlKNXIw)
+#### Source code: [Adding Loaders Dev Server Configurations](https://github.com/yaskutsWeb/webpack-course/tree/master/source/module%207/3.%20Adding%20Loaders%20Dev%20Server%20Configurations%20%5Blesson%204%5D)
 
-#### Source code: [SASS(SCSS) Loader](https://github.com/yaskutsWeb/webpack-course/tree/master/source/module%202/2.%20SCSS%20loader%20%5Blesson%204%5D)
+## 5. Babel Loader
+- [Video](https://youtu.be/ZTGf312IaGg)
 
-#### Study Materials
-- sass-loader: https://webpack.js.org/loaders/sass-loader/
-
-## 5. Images Loader
-- [Video](https://youtu.be/QqG8JGNjne0)
-
-#### Source code: [Images Loader](https://github.com/yaskutsWeb/webpack-course/tree/master/source/module%202/3.%20Images%20Loader%20%5Blesson%205%5D)
+#### Source code: [Adding Babel loader](https://github.com/yaskutsWeb/webpack-course/tree/master/source/module%207/4.%20Adding%20Babel%20loader%20%5Blesson%205%5D)
 
 #### Study Materials
-- Asset Modules: https://webpack.js.org/guides/asset-modules/
+- Babel loader: https://webpack.js.org/loaders/babel-loader/
+- babel official docs: https://babeljs.io/
 
-## 6. Fonts Loader
-- [Video](https://youtu.be/eI6B74qrfos)
+## 6. Fixing route issue
+- [Video](https://youtu.be/ltguzid-8FA)
 
-#### Source code: [Fonts Loader](https://github.com/yaskutsWeb/webpack-course/tree/master/source/module%202/4.%20Fonts%20Loader%20%5Blesson%206%5D)
+#### Source code: [Fixing route issue](https://github.com/yaskutsWeb/webpack-course/tree/master/source/module%207/5.%20Fixing%20route%20issue%20%5Blesson%206%5D)
+
+## 7. Post CSS Loaders
+- [Video](https://youtu.be/QbGrswQ8cXE)
+
+#### Source code: [Post CSS Loaders configuration](https://github.com/yaskutsWeb/webpack-course/tree/master/source/module%207/6.%20Post%20CSS%20Loaders%20configuration%20%5Blesson%207%5D)
 
 #### Study Materials
-- Asset Modules: https://webpack.js.org/guides/asset-modules/
+- Post CSS official docs: https://postcss.org/
+- post-css loader: https://webpack.js.org/loaders/postcss-loader/
 
-## 7. Loaders Recap:
-- [Video](https://youtu.be/74zq_JAC0xI)
+## 8. ESLint Configuration
+- [Video](https://youtu.be/iZpw6vFVYgs)
 
+#### Source code: [ESLint Configuration](https://github.com/yaskutsWeb/webpack-course/tree/master/source/module%207/7.%20ESLint%20configuration%20%5Blesson%208%5D)
+
+#### Study Materials
+- ESLint official docs: https://eslint.org/
+- eslint-webpack plugin: https://webpack.js.org/plugins/eslint-webpack-plugin/
+  
 ##
-#### [Next Module](https://github.com/yaskutsWeb/webpack-course/blob/master/source/module%203/Module%203.md)
+#### [Next Module](https://github.com/yaskutsWeb/webpack-course/blob/master/source/module%208/Module%208.md)
 #### [Return to contents](https://github.com/yaskutsWeb/webpack-course)
 ##
