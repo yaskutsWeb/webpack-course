@@ -1,4 +1,4 @@
-# Module 2. Production Build and Deployment configurations
+# Module 6. Production Build and Deployment configurations
 ## 1. Introduction
 - [Video](https://youtu.be/UWISinCZZ4A)
 
