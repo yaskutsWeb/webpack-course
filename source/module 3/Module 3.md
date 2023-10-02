@@ -1,52 +1,46 @@
-# Module 2. Webpack Loaders
+# Module 3. Webpack Plugins
 ## 1. Introduction
-- [Video](https://youtu.be/dIaZLzW5iS0)
+- [Video](https://youtu.be/SqXoDzUcMAQ)
 
-## 2. What are loaders
-- [Video](https://youtu.be/GPLW5VBQMM4)
+## 2. Multiple entry bundle
+- [Video](https://youtu.be/FpS0IZxKnmg)
 
-#### Study Materials
-- Webpack Loaders Concepts: https://webpack.js.org/concepts/loaders/
-- Webpack Loaders: https://webpack.js.org/loaders/
+#### Source code: 
+[Multiple Bundle (Base version)](https://github.com/yaskutsWeb/webpack-course/tree/master/source/module%203/1.%20Multiple%20Bundle%20(Base%20version)%20%5Blesson%202%5D)
 
-## 3. CSS Loaders
-- [Video (Part 1)](https://youtu.be/PO7s-6278Ww)
-- [Video (Part 2)](https://youtu.be/dDEyor8vRaA)
-
-#### Source code: [CSS Loaders](https://github.com/yaskutsWeb/webpack-course/tree/master/source/module%202/1.%20CSS%20loaders%20%5Blesson%203%5D)
+[Multiple Bundle](https://github.com/yaskutsWeb/webpack-course/tree/master/source/module%203/1.%20Multiple%20Bundle%20%5Blesson%202%5D)
 
 #### Study Materials
-- style-loader: https://webpack.js.org/loaders/style-loader/
-- css-loader: https://webpack.js.org/loaders/css-loader/
+- Code Splitting: https://webpack.js.org/guides/code-splitting/
 
-## 4. SASS(SCSS) Loader
-- [Video](https://youtu.be/T3AzrlKNXIw)
-
-#### Source code: [SASS(SCSS) Loader](https://github.com/yaskutsWeb/webpack-course/tree/master/source/module%202/2.%20SCSS%20loader%20%5Blesson%204%5D)
+## 3. What are plugins
+- [Video](https://youtu.be/WJUuygsRtP8)
 
 #### Study Materials
-- sass-loader: https://webpack.js.org/loaders/sass-loader/
+- Webpack Plugins: https://webpack.js.org/concepts/plugins/
 
-## 5. Images Loader
-- [Video](https://youtu.be/QqG8JGNjne0)
+## 4. HTML Webpack Plugin
+- [Video](https://youtu.be/vE2l5RnKhdk)
 
-#### Source code: [Images Loader](https://github.com/yaskutsWeb/webpack-course/tree/master/source/module%202/3.%20Images%20Loader%20%5Blesson%205%5D)
-
-#### Study Materials
-- Asset Modules: https://webpack.js.org/guides/asset-modules/
-
-## 6. Fonts Loader
-- [Video](https://youtu.be/eI6B74qrfos)
-
-#### Source code: [Fonts Loader](https://github.com/yaskutsWeb/webpack-course/tree/master/source/module%202/4.%20Fonts%20Loader%20%5Blesson%206%5D)
+#### Source code: [Multiple Bundle HTMLWebpackPlugin](https://github.com/yaskutsWeb/webpack-course/tree/master/source/module%203/2.%20Multiple%20Bundle%20HTMLWebpackPlugin%20%5Blesson%204%5D)
 
 #### Study Materials
-- Asset Modules: https://webpack.js.org/guides/asset-modules/
+- HtmlWebpackPlugin: https://webpack.js.org/plugins/html-webpack-plugin/
 
-## 7. Loaders Recap:
-- [Video](https://youtu.be/74zq_JAC0xI)
+## 5. Multiple Bundle  Fix CSS
+- [Video](https://youtu.be/2fxFKBgPwc0)
+
+#### Source code: [Multiple Bundle  Fix CSS](https://github.com/yaskutsWeb/webpack-course/tree/master/source/module%203/3.%20Multiple%20Bundle%20%20Fix%20CSS%20%5Blesson%205%5D)
+
+## 6. Webpack DevServer
+- [Video](https://youtu.be/cI0H4IpgDx4)
+
+#### Source code: [Multiple Bundle WebpackServer](https://github.com/yaskutsWeb/webpack-course/tree/master/source/module%203/4.%20Multiple%20Bundle%20WebpackServer%20%5Blesson%206%5D)
+
+#### Study Materials
+- Webpack DevServer: https://webpack.js.org/configuration/dev-server/
 
 ##
-#### [Next Module](https://github.com/yaskutsWeb/webpack-course/blob/master/source/module%203/Module%203.md)
+#### [Next Module](https://github.com/yaskutsWeb/webpack-course/blob/master/source/module%204/Module%204.md)
 #### [Return to contents](https://github.com/yaskutsWeb/webpack-course)
 ##
