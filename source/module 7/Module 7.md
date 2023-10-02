@@ -7,6 +7,7 @@
 
 #### Source code: 
 [Basic HTML and JS configuration (base)](https://github.com/yaskutsWeb/webpack-course/tree/master/source/module%207/1.%20Basic%20HTML%20and%20JS%20configuration%20(base)%20%5Blesson%202%5D)
+
 [Basic HTML and JS configuration](https://github.com/yaskutsWeb/webpack-course/tree/master/source/module%207/1.%20Basic%20HTML%20and%20JS%20configuration%20%5Blesson%202%5D)
 
 ## 3. Define Entry Output configurations
