@@ -1,52 +1,60 @@
-# Module 2. Webpack Loaders
+# Module 4. Build a full website using Webpack Course Project
 ## 1. Introduction
-- [Video](https://youtu.be/dIaZLzW5iS0)
+- [Video](https://youtu.be/r014byZPLak)
 
-## 2. What are loaders
-- [Video](https://youtu.be/GPLW5VBQMM4)
+## 2. Install dependencies via NPM
+- [Video](https://youtu.be/6j3XCMlsXp4)
 
-#### Study Materials
-- Webpack Loaders Concepts: https://webpack.js.org/concepts/loaders/
-- Webpack Loaders: https://webpack.js.org/loaders/
+#### Source code: 
+[Course Project (Base version)](https://github.com/yaskutsWeb/webpack-course/tree/master/source/module%204/1.%20Course%20Project%20(Base%20version)%20%5Blesson%202%5D/src)
 
-## 3. CSS Loaders
-- [Video (Part 1)](https://youtu.be/PO7s-6278Ww)
-- [Video (Part 2)](https://youtu.be/dDEyor8vRaA)
+[Course Project](https://github.com/yaskutsWeb/webpack-course/tree/master/source/module%204/1.%20Course%20Project%20%5Blesson%202%5D)
 
-#### Source code: [CSS Loaders](https://github.com/yaskutsWeb/webpack-course/tree/master/source/module%202/1.%20CSS%20loaders%20%5Blesson%203%5D)
+## 3. Basic Webpack config
+- [Video](https://youtu.be/ldG5lS_4y3c)
 
-#### Study Materials
-- style-loader: https://webpack.js.org/loaders/style-loader/
-- css-loader: https://webpack.js.org/loaders/css-loader/
+#### Source code: [Basic Webpack config](https://github.com/yaskutsWeb/webpack-course/tree/master/source/module%204/2.%20Basic%20Webpack%20config%20%5Blesson%203%5D)
 
-## 4. SASS(SCSS) Loader
-- [Video](https://youtu.be/T3AzrlKNXIw)
+## 4. CSS & SCSS loaders setup
+- [Video](https://youtu.be/TKdgfY6pKAg)
 
-#### Source code: [SASS(SCSS) Loader](https://github.com/yaskutsWeb/webpack-course/tree/master/source/module%202/2.%20SCSS%20loader%20%5Blesson%204%5D)
+#### Source code: [CSS and SCSS loaders setup](https://github.com/yaskutsWeb/webpack-course/tree/master/source/module%204/3.%20CSS%20and%20SCSS%20loaders%20setup%20%5Blesson%204%5D)
 
-#### Study Materials
-- sass-loader: https://webpack.js.org/loaders/sass-loader/
+## 5. Dev Server setup
+- [Video](https://youtu.be/w5_Z3UUtodI)
 
-## 5. Images Loader
-- [Video](https://youtu.be/QqG8JGNjne0)
+#### Source code: [Dev Server Setup](https://github.com/yaskutsWeb/webpack-course/tree/master/source/module%204/4.%20Dev%20server%20setup%20%5Blesson%205%5D)
 
-#### Source code: [Images Loader](https://github.com/yaskutsWeb/webpack-course/tree/master/source/module%202/3.%20Images%20Loader%20%5Blesson%205%5D)
+## 6. Analyze the issue
+- [Video](https://youtu.be/O5QFa8XW9YA)
 
-#### Study Materials
-- Asset Modules: https://webpack.js.org/guides/asset-modules/
+#### Source code: [Analyze the issue](https://github.com/yaskutsWeb/webpack-course/tree/master/source/module%204/5.%20Analyze%20the%20issue%20%5Blesson%206%5D)
 
-## 6. Fonts Loader
-- [Video](https://youtu.be/eI6B74qrfos)
+## 7. Copy Plugin:
+- [Video](https://youtu.be/lEep_6mxX-E)
 
-#### Source code: [Fonts Loader](https://github.com/yaskutsWeb/webpack-course/tree/master/source/module%202/4.%20Fonts%20Loader%20%5Blesson%206%5D)
+#### Source code: [Copy assets to dist folder](https://github.com/yaskutsWeb/webpack-course/tree/master/source/module%204/6.%20Copy%20Plugin%20%5Blesson%207%5D)
 
-#### Study Materials
-- Asset Modules: https://webpack.js.org/guides/asset-modules/
+#### Notes: Use this config for webpack CopyPlugin
+		new CopyPlugin({
+			patterns: [
+				{
+					from: 'assets/images/*',
+					to: path.resolve(__dirname, 'dist'),
+					context: 'src',
+				}
+			],
+		}),
 
-## 7. Loaders Recap:
-- [Video](https://youtu.be/74zq_JAC0xI)
+#### Study materials:
+- Webpack Copy Plugin: https://webpack.js.org/plugins/copy-webpack-plugin/
+
+## 8. Fixing the imports in courses page
+- [Video](https://youtu.be/LyDJqeoDeaw)
+
+#### Source code: [Fixing the imports in courses page](https://github.com/yaskutsWeb/webpack-course/tree/master/source/module%204/7.%20Fixing%20the%20imports%20in%20courses%20page%20%5Blesson%208%5D)
 
 ##
-#### [Next Module](https://github.com/yaskutsWeb/webpack-course/blob/master/source/module%203/Module%203.md)
+#### [Next Module](https://github.com/yaskutsWeb/webpack-course/blob/master/source/module%205/Module%205.md)
 #### [Return to contents](https://github.com/yaskutsWeb/webpack-course)
 ##
