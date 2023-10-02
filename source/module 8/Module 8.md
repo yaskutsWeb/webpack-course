@@ -1,52 +1,53 @@
-# Module 2. Webpack Loaders
+# Module 8. Micro frontends using Webpack Module Federation
 ## 1. Introduction
-- [Video](https://youtu.be/dIaZLzW5iS0)
+- [Video](https://youtu.be/371v3VfUO6A)
 
 ## 2. What are loaders
-- [Video](https://youtu.be/GPLW5VBQMM4)
+- [Video](https://youtu.be/dIUp4y_3P2c)
 
 #### Study Materials
-- Webpack Loaders Concepts: https://webpack.js.org/concepts/loaders/
-- Webpack Loaders: https://webpack.js.org/loaders/
+- All about Microfrontend: https://www.aplyca.com/en/blog/micro-frontends-what-are-they-and-when-to-use-them
 
-## 3. CSS Loaders
-- [Video (Part 1)](https://youtu.be/PO7s-6278Ww)
-- [Video (Part 2)](https://youtu.be/dDEyor8vRaA)
+## 3. Microfrontends project introduction
+- [Video](https://youtu.be/-GYfYtVPspE)
 
-#### Source code: [CSS Loaders](https://github.com/yaskutsWeb/webpack-course/tree/master/source/module%202/1.%20CSS%20loaders%20%5Blesson%203%5D)
+## 4. Starting of applications servers
+- [Video](https://youtu.be/_5c1t-88Jp4)
 
-#### Study Materials
-- style-loader: https://webpack.js.org/loaders/style-loader/
-- css-loader: https://webpack.js.org/loaders/css-loader/
+#### Source code: 
+[MF Project (base)](https://github.com/yaskutsWeb/webpack-course/tree/master/source/module%208/1.%20MF%20Project%20(base)%20%5Blesson%204%5D)
 
-## 4. SASS(SCSS) Loader
-- [Video](https://youtu.be/T3AzrlKNXIw)
+[Starting of applications servers](https://github.com/yaskutsWeb/webpack-course/tree/master/source/module%208/1.%20Starting%20of%20applications%20servers%20%5Blesson%204%5D)
 
-#### Source code: [SASS(SCSS) Loader](https://github.com/yaskutsWeb/webpack-course/tree/master/source/module%202/2.%20SCSS%20loader%20%5Blesson%204%5D)
+## 5. Module federation basics
+- [Video](https://youtu.be/1Iqxus3a58A)
 
 #### Study Materials
-- sass-loader: https://webpack.js.org/loaders/sass-loader/
+- Module Federation: https://habr.com/ru/articles/720560/
 
-## 5. Images Loader
-- [Video](https://youtu.be/QqG8JGNjne0)
+## 6. Exposing components
+- [Video](https://youtu.be/t_LzpwobE14)
 
-#### Source code: [Images Loader](https://github.com/yaskutsWeb/webpack-course/tree/master/source/module%202/3.%20Images%20Loader%20%5Blesson%205%5D)
-
-#### Study Materials
-- Asset Modules: https://webpack.js.org/guides/asset-modules/
-
-## 6. Fonts Loader
-- [Video](https://youtu.be/eI6B74qrfos)
-
-#### Source code: [Fonts Loader](https://github.com/yaskutsWeb/webpack-course/tree/master/source/module%202/4.%20Fonts%20Loader%20%5Blesson%206%5D)
+#### Source code: [Exposing components](https://github.com/yaskutsWeb/webpack-course/tree/master/source/module%208/2.%20Exposing%20components%20%5Blesson%206%5D)
 
 #### Study Materials
-- Asset Modules: https://webpack.js.org/guides/asset-modules/
+- Module Federation Concepts: https://webpack.js.org/concepts/module-federation/
 
-## 7. Loaders Recap:
-- [Video](https://youtu.be/74zq_JAC0xI)
+## 7. Fetching movies data to homepage
+- [Video](https://youtu.be/grv_5Hj5dDE)
+
+#### Source code: [Fetching movies data to homepage](https://github.com/yaskutsWeb/webpack-course/tree/master/source/module%208/3.%20Fetching%20movies%20data%20to%20homepage%20%5Blesson%207%5D)
+
+## 8. Importing remote components
+- [Video](https://youtu.be/KAYBRZPI3Jk)
+
+#### Source code: [Importing remote components](https://github.com/yaskutsWeb/webpack-course/tree/master/source/module%208/4.%20Importing%20remote%20components%20%5Blesson%208%5D)
+
+## 9. Rendering all movies list
+- [Video](https://youtu.be/mAtrdwqiVfw)
+
+#### Source code: [Rendering all movies list](https://github.com/yaskutsWeb/webpack-course/tree/master/source/module%208/5.%20Rendering%20all%20movies%20list%20%5Blesson%209%5D)
 
 ##
-#### [Next Module](https://github.com/yaskutsWeb/webpack-course/blob/master/source/module%203/Module%203.md)
 #### [Return to contents](https://github.com/yaskutsWeb/webpack-course)
 ##
