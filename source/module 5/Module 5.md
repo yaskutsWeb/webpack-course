@@ -1,52 +1,52 @@
-# Module 2. Webpack Loaders
+# Module 5. Webpack Optimizations
 ## 1. Introduction
-- [Video](https://youtu.be/dIaZLzW5iS0)
+- [Video](https://youtu.be/1RzXdHOG1I8)
 
-## 2. What are loaders
-- [Video](https://youtu.be/GPLW5VBQMM4)
-
-#### Study Materials
-- Webpack Loaders Concepts: https://webpack.js.org/concepts/loaders/
-- Webpack Loaders: https://webpack.js.org/loaders/
-
-## 3. CSS Loaders
-- [Video (Part 1)](https://youtu.be/PO7s-6278Ww)
-- [Video (Part 2)](https://youtu.be/dDEyor8vRaA)
-
-#### Source code: [CSS Loaders](https://github.com/yaskutsWeb/webpack-course/tree/master/source/module%202/1.%20CSS%20loaders%20%5Blesson%203%5D)
+## 2. Code Splitting
+- [Video](https://youtu.be/CUE_tLpdYpo)
 
 #### Study Materials
-- style-loader: https://webpack.js.org/loaders/style-loader/
-- css-loader: https://webpack.js.org/loaders/css-loader/
+- Webpack Code Splitting: https://webpack.js.org/guides/code-splitting/
 
-## 4. SASS(SCSS) Loader
-- [Video](https://youtu.be/T3AzrlKNXIw)
+## 3. Analyzing the Webpack build
+- [Video](https://youtu.be/x817fSpEBx0)
 
-#### Source code: [SASS(SCSS) Loader](https://github.com/yaskutsWeb/webpack-course/tree/master/source/module%202/2.%20SCSS%20loader%20%5Blesson%204%5D)
+#### Source code: 
+[Analyzing the Webpack build (Base)](https://github.com/yaskutsWeb/webpack-course/tree/master/source/module%205/1.%20Analyzing%20the%20Webpack%20build%20(Base)%20%5Blesson%203%5D)
 
-#### Study Materials
-- sass-loader: https://webpack.js.org/loaders/sass-loader/
-
-## 5. Images Loader
-- [Video](https://youtu.be/QqG8JGNjne0)
-
-#### Source code: [Images Loader](https://github.com/yaskutsWeb/webpack-course/tree/master/source/module%202/3.%20Images%20Loader%20%5Blesson%205%5D)
+[Analyzing the Webpack build](https://github.com/yaskutsWeb/webpack-course/tree/master/source/module%205/1.%20Analyzing%20the%20Webpack%20build%20%5Blesson%203%5D)
 
 #### Study Materials
-- Asset Modules: https://webpack.js.org/guides/asset-modules/
+- Webpack Bundle Analyzer: https://www.npmjs.com/package/webpack-bundle-analyzer
 
-## 6. Fonts Loader
-- [Video](https://youtu.be/eI6B74qrfos)
+## 4. Webpack Split Chunk
+- [Video](https://youtu.be/z91THspLteY)
 
-#### Source code: [Fonts Loader](https://github.com/yaskutsWeb/webpack-course/tree/master/source/module%202/4.%20Fonts%20Loader%20%5Blesson%206%5D)
+#### Source code: [Webpack split chunk](https://github.com/yaskutsWeb/webpack-course/tree/master/source/module%205/2.%20Webpack%20split%20chunk%20%5Blesson%204%5D)
 
 #### Study Materials
-- Asset Modules: https://webpack.js.org/guides/asset-modules/
+- Webpack Split Chunk: https://webpack.js.org/plugins/split-chunks-plugin/
 
-## 7. Loaders Recap:
-- [Video](https://youtu.be/74zq_JAC0xI)
+## 5. Lazy loading Dynamic Imports
+- [Video](https://youtu.be/WXJUGTcgdQo)
+
+#### Source code: 
+[Lazy loading Dynamic Imports (Base)](https://github.com/yaskutsWeb/webpack-course/tree/master/source/module%205/3.%20Lazy%20loading%20Dynamic%20Imports%20(Base)%20%5Blesson%205%5D)
+
+[Lazy loading Dynamic Imports](https://github.com/yaskutsWeb/webpack-course/tree/master/source/module%205/3.%20Lazy%20loading%20Dynamic%20Imports%20%5Blesson%205%5D)
+
+#### Study Materials
+- Webpack and Dynamic Imports: https://medium.com/front-end-weekly/webpack-and-dynamic-imports-doing-it-right-72549ff49234
+
+## 6. Adding hash to output bundle files
+- [Video](https://youtu.be/BFb9F4q4Xvg)
+
+#### Source code: [Adding hash to output bundle files](https://github.com/yaskutsWeb/webpack-course/tree/master/source/module%205/4.%20Adding%20hash%20to%20output%20bundle%20files%20%5Blesson%206%5D)
+
+#### Study Materials
+- Adding Hashes to Filenames: https://survivejs.com/webpack/optimizing/adding-hashes-to-filenames/
 
 ##
-#### [Next Module](https://github.com/yaskutsWeb/webpack-course/blob/master/source/module%203/Module%203.md)
+#### [Next Module](https://github.com/yaskutsWeb/webpack-course/blob/master/source/module%206/Module%206.md)
 #### [Return to contents](https://github.com/yaskutsWeb/webpack-course)
 ##
