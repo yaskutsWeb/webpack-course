@@ -2,7 +2,7 @@
 ## 1. Introduction
 - [Video](https://youtu.be/SqXoDzUcMAQ)
 
-## 2. Multiple entry bundle
+## 2. Webpack Code Splitting
 - [Video](https://youtu.be/FpS0IZxKnmg)
 
 #### Source code: 
