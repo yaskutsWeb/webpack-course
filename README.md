@@ -24,3 +24,13 @@ https://webpack.js.org/concepts/
 # [Module 7. Build a React single page application](https://github.com/yaskutsWeb/webpack-course/blob/master/source/module%207/Module%207.md)
 
 # [Module 8. Micro frontends using Webpack Module Federation](https://github.com/yaskutsWeb/webpack-course/blob/master/source/module%208/Module%208.md)
+
+
+#### additional materials for learning by yourself
+-  Building multi-configs in parallel: https://www.npmjs.com/package/parallel-webpack
+-  Source Maps: https://habr.com/ru/articles/509250/
+                https://webpack.js.org/loaders/source-map-loader/
+- Hash vs chunkhash vs ContentHash: https://medium.com/@web_developer/hash-vs-chunkhash-vs-contenthash-e94d38a32208
+- CommonsChunkPlugin: https://webpack.js.org/plugins/commons-chunk-plugin/
+- Hot Module Replacement: https://webpack.js.org/concepts/hot-module-replacement/
+- extract-text-webpack-plugin: https://www.npmjs.com/package/extract-text-webpack-plugin
